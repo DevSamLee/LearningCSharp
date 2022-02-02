@@ -43,7 +43,6 @@ namespace VarsAndData
 
             int f_to_i = (int)f;
             Console.WriteLine("{0}", f_to_i);
-
         }
     }
 }
