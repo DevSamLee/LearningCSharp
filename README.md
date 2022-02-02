@@ -12,4 +12,4 @@
 >
 | Certificate              |
 |---------------------|
-| ![](./LearningCsharp_certificate.png) |
+| ![](./LearningCSharp_certificate.png) |
