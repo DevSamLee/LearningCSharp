@@ -32,7 +32,7 @@ namespace Operators
             // TODO: Logical operators &&, ||
             Console.WriteLine("----- Logic Operators -----");
             Console.WriteLine(x > y && y >= 5);
-            Console.WriteLine(x> y || y >= 5);
+            Console.WriteLine(x > y || y >= 5);
 
 
             // null-coalescing operators
