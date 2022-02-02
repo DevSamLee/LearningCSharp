@@ -8,7 +8,7 @@
 >
 # Certificate of Learning CSharp
 >
-> This is my second time going over this course.
+> This is my second time taking this course. (Practice! Practice! Practice!)
 >
 > I will update my source code that has been covered in this course.
 >
