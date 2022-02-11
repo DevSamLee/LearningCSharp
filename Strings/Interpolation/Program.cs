@@ -17,7 +17,6 @@ namespace StringInterpolation
             Console.WriteLine("This car is a {0} {1} {2}, with {3} miles and costs ${4}",
                 year, make, model, miles, price);
 
-
             // TODO: Using string interpolation
             Console.WriteLine($"This car is a {year} {make} {model}, with {miles} miles and costs {price:C2}");
 
